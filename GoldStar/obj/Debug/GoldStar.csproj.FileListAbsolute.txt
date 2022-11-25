@@ -1,0 +1,116 @@
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\bin\Debug\GoldStar.exe.config
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\bin\Debug\GoldStar.exe
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\bin\Debug\GoldStar.pdb
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.csprojResolveAssemblyReference.cache
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Home.resources
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Login.resources
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Properties.Resources.resources
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.csproj.GenerateResource.Cache
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.exe
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.pdb
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\bin\Debug\System.Data.SQLite.xml
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Booking.resources
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Reviews.resources
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.AddCustomer.resources
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Admin.resources
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.AddReservation.resources
+c:\users\wanga\documents\visual studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.CancelBooking.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\bin\Debug\GoldStar.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\bin\Debug\GoldStar.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\bin\Debug\GoldStar.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.AddCustomer.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.AddReservation.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Admin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Booking.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.CancelBooking.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.EditReservation.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Home.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Login.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Reviews.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Room.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Customers.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Services.resources
+C:\Users\Wanga\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Customers.resources
+C:\Users\Wanga\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Room.resources
+C:\Users\Wanga\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Services.resources
+C:\Users\Wanga\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Welcome.resources
+C:\Users\Wanga\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.BookRoom.resources
+C:\Users\Wanga\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.EditReservation.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.BookRoom.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Welcome.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.MakeReservation.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.AddReview.resources
+C:\Users\Wanga\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.AddReview.resources
+C:\Users\Wanga\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.MakeReservation.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.EditBooking.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Profile.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\bin\Debug\GoldStar.exe.config
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.exe
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.pdb
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\bin\Debug\GoldStar.exe
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\bin\Debug\GoldStar.pdb
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\bin\Debug\System.Data.SQLite.xml
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.csprojResolveAssemblyReference.cache
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.AddCustomer.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.AddReservation.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.AddReview.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Admin.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Booking.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.BookRoom.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.CancelBooking.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Customers.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.EditBooking.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.EditReservation.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.EditReview.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Home.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Login.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.MakeReservation.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Profile.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Properties.Resources.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Reviews.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Room.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Services.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Welcome.resources
+C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.csproj.GenerateResource.Cache
+C:\Users\Wanga\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.EditBooking.resources
+C:\Users\Wanga\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.EditReview.resources
+C:\Users\Wanga\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Profile.resources
+C:\Users\Wanga\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.AdminWelcome.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\bin\Debug\GoldStar.exe.config
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\bin\Debug\GoldStar.exe
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\bin\Debug\GoldStar.pdb
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\bin\Debug\System.Data.SQLite.xml
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.csprojAssemblyReference.cache
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.AddCustomer.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.AddReservation.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.AddReview.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.Admin.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.AdminWelcome.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.Booking.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.BookRoom.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.CancelBooking.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.Customers.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.EditBooking.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.EditReservation.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.EditReview.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.Home.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.Login.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.MakeReservation.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.Profile.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.Properties.Resources.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.Reviews.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.Room.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.Services.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.Welcome.resources
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.csproj.GenerateResource.cache
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.csproj.CoreCompileInputs.cache
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.csproj.CopyComplete
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.exe
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.pdb
+C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\bin\Debug\MaterialSkin.dll
