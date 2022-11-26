@@ -41,18 +41,28 @@
             // 
             // data_services
             // 
+<<<<<<< HEAD
             this.data_services.AllowUserToAddRows = false;
             this.data_services.AllowUserToDeleteRows = false;
             this.data_services.AllowUserToResizeRows = false;
+=======
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.data_services.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.data_services.BackgroundColor = System.Drawing.SystemColors.Control;
             this.data_services.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.data_services.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+<<<<<<< HEAD
             this.data_services.Dock = System.Windows.Forms.DockStyle.Fill;
             this.data_services.Location = new System.Drawing.Point(0, 0);
             this.data_services.Name = "data_services";
             this.data_services.ReadOnly = true;
             this.data_services.Size = new System.Drawing.Size(525, 418);
+=======
+            this.data_services.Dock = System.Windows.Forms.DockStyle.Top;
+            this.data_services.Location = new System.Drawing.Point(0, 0);
+            this.data_services.Name = "data_services";
+            this.data_services.Size = new System.Drawing.Size(525, 333);
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.data_services.TabIndex = 1;
             // 
             // panel_controls
@@ -78,12 +88,20 @@
             // 
             // btn_cancel
             // 
+<<<<<<< HEAD
             this.btn_cancel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(54)))), ((int)(((byte)(54)))), ((int)(((byte)(54)))));
+=======
+            this.btn_cancel.BackColor = System.Drawing.Color.Khaki;
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.btn_cancel.Dock = System.Windows.Forms.DockStyle.Left;
             this.btn_cancel.FlatAppearance.BorderSize = 0;
             this.btn_cancel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_cancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.btn_cancel.ForeColor = System.Drawing.Color.White;
+=======
+            this.btn_cancel.ForeColor = System.Drawing.Color.Black;
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.btn_cancel.Location = new System.Drawing.Point(288, 0);
             this.btn_cancel.Name = "btn_cancel";
             this.btn_cancel.Size = new System.Drawing.Size(144, 53);
@@ -93,12 +111,20 @@
             // 
             // btn_edit
             // 
+<<<<<<< HEAD
             this.btn_edit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(54)))), ((int)(((byte)(54)))), ((int)(((byte)(54)))));
+=======
+            this.btn_edit.BackColor = System.Drawing.Color.Khaki;
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.btn_edit.Dock = System.Windows.Forms.DockStyle.Left;
             this.btn_edit.FlatAppearance.BorderSize = 0;
             this.btn_edit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_edit.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.btn_edit.ForeColor = System.Drawing.Color.White;
+=======
+            this.btn_edit.ForeColor = System.Drawing.Color.Black;
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.btn_edit.Location = new System.Drawing.Point(144, 0);
             this.btn_edit.Name = "btn_edit";
             this.btn_edit.Size = new System.Drawing.Size(144, 53);
@@ -109,12 +135,20 @@
             // 
             // btn_book
             // 
+<<<<<<< HEAD
             this.btn_book.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(54)))), ((int)(((byte)(54)))), ((int)(((byte)(54)))));
+=======
+            this.btn_book.BackColor = System.Drawing.Color.Khaki;
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.btn_book.Dock = System.Windows.Forms.DockStyle.Left;
             this.btn_book.FlatAppearance.BorderSize = 0;
             this.btn_book.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_book.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.btn_book.ForeColor = System.Drawing.Color.White;
+=======
+            this.btn_book.ForeColor = System.Drawing.Color.Black;
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.btn_book.Location = new System.Drawing.Point(0, 0);
             this.btn_book.Name = "btn_book";
             this.btn_book.Size = new System.Drawing.Size(144, 53);
@@ -127,9 +161,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(34)))), ((int)(((byte)(34)))));
             this.Controls.Add(this.data_services);
             this.Controls.Add(this.panel_controls);
+=======
+            this.Controls.Add(this.panel_controls);
+            this.Controls.Add(this.data_services);
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.Name = "Welcome";
             this.Size = new System.Drawing.Size(525, 471);
             ((System.ComponentModel.ISupportInitialize)(this.data_services)).EndInit();

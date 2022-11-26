@@ -32,6 +32,10 @@
             this.data_reviews = new System.Windows.Forms.DataGridView();
             this.panel_controls = new System.Windows.Forms.Panel();
             this.panel_buttons = new System.Windows.Forms.Panel();
+<<<<<<< HEAD
+=======
+            this.btn_cancel = new System.Windows.Forms.Button();
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.btn_edit = new System.Windows.Forms.Button();
             this.panel_transactions.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.data_reviews)).BeginInit();
@@ -71,6 +75,7 @@
             // 
             // panel_buttons
             // 
+<<<<<<< HEAD
             this.panel_buttons.Controls.Add(this.btn_edit);
             this.panel_buttons.Dock = System.Windows.Forms.DockStyle.Right;
             this.panel_buttons.Location = new System.Drawing.Point(381, 0);
@@ -78,6 +83,31 @@
             this.panel_buttons.Size = new System.Drawing.Size(144, 48);
             this.panel_buttons.TabIndex = 0;
             // 
+=======
+            this.panel_buttons.Controls.Add(this.btn_cancel);
+            this.panel_buttons.Controls.Add(this.btn_edit);
+            this.panel_buttons.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel_buttons.Location = new System.Drawing.Point(233, 0);
+            this.panel_buttons.Name = "panel_buttons";
+            this.panel_buttons.Size = new System.Drawing.Size(292, 48);
+            this.panel_buttons.TabIndex = 0;
+            // 
+            // btn_cancel
+            // 
+            this.btn_cancel.BackColor = System.Drawing.Color.Khaki;
+            this.btn_cancel.Dock = System.Windows.Forms.DockStyle.Left;
+            this.btn_cancel.FlatAppearance.BorderSize = 0;
+            this.btn_cancel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_cancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_cancel.ForeColor = System.Drawing.Color.Black;
+            this.btn_cancel.Location = new System.Drawing.Point(144, 0);
+            this.btn_cancel.Name = "btn_cancel";
+            this.btn_cancel.Size = new System.Drawing.Size(144, 48);
+            this.btn_cancel.TabIndex = 4;
+            this.btn_cancel.Text = "Delete Review";
+            this.btn_cancel.UseVisualStyleBackColor = false;
+            // 
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             // btn_edit
             // 
             this.btn_edit.BackColor = System.Drawing.Color.Khaki;
@@ -114,6 +144,10 @@
         private System.Windows.Forms.Panel panel_transactions;
         private System.Windows.Forms.Panel panel_controls;
         private System.Windows.Forms.Panel panel_buttons;
+<<<<<<< HEAD
+=======
+        private System.Windows.Forms.Button btn_cancel;
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
         private System.Windows.Forms.Button btn_edit;
         public System.Windows.Forms.DataGridView data_reviews;
     }

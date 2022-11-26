@@ -12,6 +12,7 @@ namespace GoldStar
 
         private void btn_comment_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             var con = new Connection();
             var comment = txt_comment.Text;
             var rating = txt_rating.Text;
@@ -19,6 +20,13 @@ namespace GoldStar
             con.ExecuteQuery(createReviewQuery);
             MessageBox.Show("Review successfully created");
             this.Close();
+=======
+            //TODO: How to either convert sender object to previous control to extract the booking the user has selected or
+            // through the event
+            var id = Utils.GetUserID();
+            var comment = txt_comment.Text;
+            var rating = txt_rating.Text;
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
         }
     }
 }

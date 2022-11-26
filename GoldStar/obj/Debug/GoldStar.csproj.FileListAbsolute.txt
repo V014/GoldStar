@@ -50,6 +50,7 @@ C:\Users\Wanga\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug
 C:\Users\Wanga\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.MakeReservation.resources
 C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.EditBooking.resources
 C:\Users\User\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.Profile.resources
+<<<<<<< HEAD
 C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\bin\Debug\GoldStar.exe.config
 C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.exe
 C:\Users\Rose\Documents\Visual Studio 2015\Projects\GoldStar\GoldStar\obj\Debug\GoldStar.pdb
@@ -114,3 +115,5 @@ C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.csproj.
 C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.exe
 C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\obj\Debug\GoldStar.pdb
 C:\Users\Wanga Kanjala\source\repos\GoldStar\GoldStar\bin\Debug\MaterialSkin.dll
+=======
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062

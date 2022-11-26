@@ -38,6 +38,7 @@ namespace GoldStar
 
         private void data_bookings_CellClick(object sender, DataGridViewCellEventArgs e)
         {
+<<<<<<< HEAD
             try
             {
                 DataGridViewRow row = data_bookings.Rows[e.RowIndex];
@@ -80,6 +81,10 @@ namespace GoldStar
                 AddReview addReview = new AddReview();
                 addReview.Show();
             }
+=======
+            DataGridViewRow row = data_bookings.Rows[e.RowIndex];
+            Utils.BookingID = int.Parse(row.Cells[0].Value.ToString());
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
         }
     }
 }

@@ -11,8 +11,11 @@ namespace GoldStar
         {
             InitializeComponent();
             lbl_title.Text = "Welcome!";
+<<<<<<< HEAD
             loadHome();
             
+=======
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
         }
         public void loadBookings()
         {
@@ -67,6 +70,7 @@ namespace GoldStar
             con.LoadData(queryServices, services.data_services);
             services.data_services.Columns[0].Visible = false;
         }
+<<<<<<< HEAD
         private void loadHome()
         {
             AdminWelcome welcome = new AdminWelcome();
@@ -81,6 +85,12 @@ namespace GoldStar
             this.panel_main.Controls.Add(welcome);
             welcome.Dock = DockStyle.Fill;
             welcome.Show();
+=======
+
+        private void btn_home_Click(object sender, EventArgs e)
+        {
+            panel_main.Controls.Clear();
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             lbl_title.Text = "Home";
         }
 

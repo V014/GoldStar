@@ -33,16 +33,22 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Reference Include="MaterialSkin">
       <HintPath>..\..\..\..\Documents\Visual Studio 2019\Packages\MaterialSkin.2.2.3.1\lib\net45\MaterialSkin.dll</HintPath>
     </Reference>
+=======
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.SQLite, Version=1.0.115.5, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Debug\System.Data.SQLite.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
     <Reference Include="System.Design" />
+=======
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -78,12 +84,15 @@
     <Compile Include="Admin.Designer.cs">
       <DependentUpon>Admin.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="AdminWelcome.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="AdminWelcome.Designer.cs">
       <DependentUpon>AdminWelcome.cs</DependentUpon>
     </Compile>
+=======
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
     <Compile Include="Booking.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -171,7 +180,10 @@
     <Compile Include="Services.Designer.cs">
       <DependentUpon>Services.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="StyleDataGrid.cs" />
+=======
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
     <Compile Include="Utils.cs" />
     <Compile Include="Welcome.cs">
       <SubType>UserControl</SubType>
@@ -191,9 +203,12 @@
     <EmbeddedResource Include="Admin.resx">
       <DependentUpon>Admin.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="AdminWelcome.resx">
       <DependentUpon>AdminWelcome.cs</DependentUpon>
     </EmbeddedResource>
+=======
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
     <EmbeddedResource Include="Booking.resx">
       <DependentUpon>Booking.cs</DependentUpon>
     </EmbeddedResource>

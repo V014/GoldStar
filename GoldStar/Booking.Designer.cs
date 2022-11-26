@@ -32,8 +32,11 @@
             this.panel_transactions = new System.Windows.Forms.Panel();
             this.panel_controls = new System.Windows.Forms.Panel();
             this.panel_buttons = new System.Windows.Forms.Panel();
+<<<<<<< HEAD
             this.btn_checkout = new System.Windows.Forms.Button();
             this.btn_accept = new System.Windows.Forms.Button();
+=======
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.btn_cancel = new System.Windows.Forms.Button();
             this.btn_edit = new System.Windows.Forms.Button();
             this.btn_book = new System.Windows.Forms.Button();
@@ -76,12 +79,16 @@
             // 
             // panel_buttons
             // 
+<<<<<<< HEAD
             this.panel_buttons.Controls.Add(this.btn_checkout);
             this.panel_buttons.Controls.Add(this.btn_accept);
+=======
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.panel_buttons.Controls.Add(this.btn_cancel);
             this.panel_buttons.Controls.Add(this.btn_edit);
             this.panel_buttons.Controls.Add(this.btn_book);
             this.panel_buttons.Dock = System.Windows.Forms.DockStyle.Right;
+<<<<<<< HEAD
             this.panel_buttons.Location = new System.Drawing.Point(3, 0);
             this.panel_buttons.Name = "panel_buttons";
             this.panel_buttons.Size = new System.Drawing.Size(522, 48);
@@ -119,6 +126,13 @@
             this.btn_accept.UseVisualStyleBackColor = false;
             this.btn_accept.Click += new System.EventHandler(this.btn_accept_Click);
             // 
+=======
+            this.panel_buttons.Location = new System.Drawing.Point(90, 0);
+            this.panel_buttons.Name = "panel_buttons";
+            this.panel_buttons.Size = new System.Drawing.Size(435, 48);
+            this.panel_buttons.TabIndex = 0;
+            // 
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             // btn_cancel
             // 
             this.btn_cancel.BackColor = System.Drawing.Color.Khaki;
@@ -127,9 +141,15 @@
             this.btn_cancel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_cancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_cancel.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.btn_cancel.Location = new System.Drawing.Point(190, 0);
             this.btn_cancel.Name = "btn_cancel";
             this.btn_cancel.Size = new System.Drawing.Size(110, 48);
+=======
+            this.btn_cancel.Location = new System.Drawing.Point(288, 0);
+            this.btn_cancel.Name = "btn_cancel";
+            this.btn_cancel.Size = new System.Drawing.Size(144, 48);
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.btn_cancel.TabIndex = 4;
             this.btn_cancel.Text = "Cancel Bookng";
             this.btn_cancel.UseVisualStyleBackColor = false;
@@ -143,9 +163,15 @@
             this.btn_edit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_edit.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_edit.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.btn_edit.Location = new System.Drawing.Point(95, 0);
             this.btn_edit.Name = "btn_edit";
             this.btn_edit.Size = new System.Drawing.Size(95, 48);
+=======
+            this.btn_edit.Location = new System.Drawing.Point(144, 0);
+            this.btn_edit.Name = "btn_edit";
+            this.btn_edit.Size = new System.Drawing.Size(144, 48);
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.btn_edit.TabIndex = 3;
             this.btn_edit.Text = "Edit Booking";
             this.btn_edit.UseVisualStyleBackColor = false;
@@ -161,7 +187,11 @@
             this.btn_book.ForeColor = System.Drawing.Color.Black;
             this.btn_book.Location = new System.Drawing.Point(0, 0);
             this.btn_book.Name = "btn_book";
+<<<<<<< HEAD
             this.btn_book.Size = new System.Drawing.Size(95, 48);
+=======
+            this.btn_book.Size = new System.Drawing.Size(144, 48);
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
             this.btn_book.TabIndex = 2;
             this.btn_book.Text = "Book Room";
             this.btn_book.UseVisualStyleBackColor = false;
@@ -192,7 +222,10 @@
         private System.Windows.Forms.Button btn_book;
         private System.Windows.Forms.Button btn_cancel;
         private System.Windows.Forms.Button btn_edit;
+<<<<<<< HEAD
         private System.Windows.Forms.Button btn_checkout;
         private System.Windows.Forms.Button btn_accept;
+=======
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
     }
 }

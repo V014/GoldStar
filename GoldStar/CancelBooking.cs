@@ -19,10 +19,14 @@ namespace GoldStar
 
         private void btn_add_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             var con = new Connection();
             String deleteBookingQuery = $"DELETE FROM booking WHERE id = {Utils.BookingID} AND checkout IS NULL";
             con.ExecuteQuery(deleteBookingQuery);
             this.Close();
+=======
+
+>>>>>>> 6056bbfb3fae6ec85f1cb3070822cffa4eedf062
         }
     }
 }
